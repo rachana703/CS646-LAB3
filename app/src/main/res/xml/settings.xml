@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<PreferenceScreen xmlns:android="http://schemas.android.com/apk/res/android">
+    <SwitchPreferenceCompat
+        android:key="sound_effects"
+        android:title="Sound Effects"
+        android:summary="Enable or disable sound effects"
+        android:defaultValue="true" />
+</PreferenceScreen>

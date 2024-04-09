@@ -1,0 +1,75 @@
+<resources>
+    <string name="app_name">Quiz Game</string>
+
+    <!-- Questions -->
+    <string name="question_1">The tallest building in the world is located in which city?</string>
+    <string name="question_2">Which planet is known as the Red Planet?</string>
+    <string name="question_3">The Great Barrier Reef is located in which country?</string>
+    <string name="question_4">What is the capital of Japan?</string>
+    <string name="question_5">Who wrote the Harry Potter series?</string>
+    <string name="question_6">What is the chemical symbol for gold?</string>
+    <string name="question_7">Which element has the atomic number 1?</string>
+    <string name="question_8">In which year did the Titanic sink?</string>
+
+    <!-- Correct Answers -->
+    <string name="answer_1">Dubai</string>
+    <string name="answer_2">Mars</string>
+    <string name="answer_3">Australia</string>
+    <string name="answer_4">Tokyo</string>
+    <string name="answer_5">J.K. Rowling</string>
+    <string name="answer_6">Au</string>
+    <string name="answer_7">Hydrogen</string>
+    <string name="answer_8">1912</string>
+
+    <!-- Options (including correct and incorrect answers) -->
+    <!-- For Question 1 -->
+    <string-array name="options_1">
+        <item>Dubai</item>
+        <item>New York</item>
+        <item>Shanghai</item>
+        <item>London</item>
+    </string-array>
+    <!-- Add options for the rest of the questions similarly -->
+    <string-array name="options_2">
+        <item>Venus</item>
+        <item>Mars</item>
+        <item>Jupiter</item>
+        <item>Mercury</item>
+    </string-array>
+    <string-array name="options_3">
+        <item>USA</item>
+        <item>India</item>
+        <item>Australia</item>
+        <item>Brazil</item>
+    </string-array>
+    <string-array name="options_4">
+        <item>Beijing</item>
+        <item>Seoul</item>
+        <item>Tokyo</item>
+        <item>Kyoto</item>
+    </string-array>
+    <string-array name="options_5">
+        <item>J.K. Rowling</item>
+        <item>Stephen King</item>
+        <item>Tolkien</item>
+        <item>George R.R. Martin</item>
+    </string-array>
+    <string-array name="options_6">
+        <item>Au</item>
+        <item>Ag</item>
+        <item>Fe</item>
+        <item>O</item>
+    </string-array>
+    <string-array name="options_7">
+        <item>Oxygen</item>
+        <item>Hydrogen</item>
+        <item>Nitrogen</item>
+        <item>Carbon</item>
+    </string-array>
+    <string-array name="options_8">
+        <item>1905</item>
+        <item>1912</item>
+        <item>1923</item>
+        <item>1931</item>
+    </string-array>
+</resources>
